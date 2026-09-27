@@ -1,0 +1,11 @@
+# Dataset tooling is maintained separately and is not part of this repository.
+generator/
+SIGNALS.md
+PROJECT_PLAN.md
+effects.py
+
+# Local output
+examples/output/
+__pycache__/
+*.pyc
+.DS_Store
