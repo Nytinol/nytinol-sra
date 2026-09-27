@@ -1,0 +1,181 @@
+campus_id,entry_term,entry_type,major,track,second_major,minor,class_level,residency,enrollment_intensity,is_first_generation,work_hours_per_week,credits_earned,credits_required,cumulative_gpa,major_gpa,academic_standing,expected_graduation_term,internship_count,credential_count,engagement_activity_count,tuition_paid_to_date_usd
+CID-116490,Fall 2025,Transfer,Computer Science,Data Science,Not Applicable,Not Applicable,Junior,In-State,Full-Time,TRUE,20,76,120,3.00,3.00,Good Standing,Spring 2028,1,2,4,8550
+CID-227285,Fall 2026,First-Time Freshman,Computer Science,Artificial Intelligence,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,21,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,3,0
+CID-514009,Fall 2025,First-Time Freshman,Information Systems,Cybersecurity Management,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,9,29,120,2.66,4.00,Good Standing,Spring 2030,1,0,5,13500
+CID-730270,Fall 2025,Transfer,Computer Science,General,Not Applicable,Not Applicable,Sophomore,In-State,Part-Time,FALSE,23,47,120,2.81,2.81,Good Standing,Spring 2032,1,2,3,5060
+CID-841348,Fall 2025,Transfer,Computer Science,General,Not Applicable,Not Applicable,Junior,In-State,Full-Time,TRUE,8,80,120,2.28,2.07,Good Standing,Spring 2028,0,0,1,5110
+CID-131321,Fall 2023,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Sophomore,In-State,Part-Time,FALSE,20,47,120,2.45,2.50,Good Standing,Spring 2032,2,2,1,27480
+CID-235131,Fall 2026,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Entrepreneurship,Freshman,In-State,Full-Time,FALSE,14,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,1,1,0
+CID-834634,Fall 2026,First-Time Freshman,Information Systems,Health Information Technology,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,10,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,3,0
+CID-674115,Fall 2026,Transfer,Information Systems,Software Development,Not Applicable,Not Applicable,Freshman,In-State,Part-Time,FALSE,16,27,120,Not Applicable,Not Applicable,Good Standing,Fall 2033,0,0,0,0
+CID-641452,Fall 2023,Transfer,Computer Science,General,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,3,152,120,3.40,3.38,Good Standing,Spring 2027,1,1,1,21250
+CID-147046,Fall 2024,First-Time Freshman,Information Systems,Cybersecurity Management,Not Applicable,Not Applicable,Sophomore,Out-of-State,Part-Time,FALSE,20,37,120,3.59,3.50,Good Standing,Spring 2033,0,0,1,29190
+CID-861622,Fall 2025,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,TRUE,19,25,120,1.62,1.00,Academic Probation,Spring 2030,0,1,1,8120
+CID-452538,Fall 2025,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,20,22,120,2.18,2.50,Good Standing,Fall 2030,1,0,2,9330
+CID-157337,Fall 2022,First-Time Freshman,Information Systems,Software Development,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,6,118,120,2.91,2.84,Good Standing,Spring 2027,1,2,3,48960
+CID-133898,Fall 2024,First-Time Freshman,Information Systems,Business Analytics,Statistics,Health Administration,Junior,Out-of-State,Full-Time,FALSE,3,69,120,3.77,4.00,Good Standing,Fall 2028,1,2,2,51020
+CID-272924,Fall 2025,Transfer,Computer Science,Artificial Intelligence,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,5,76,120,2.36,2.15,Good Standing,Spring 2028,0,0,0,4840
+CID-542977,Fall 2026,First-Time Freshman,Computer Science,Data Science,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,FALSE,11,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,3,0
+CID-158838,Fall 2026,First-Time Freshman,Information Systems,General,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,FALSE,1,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,3,0
+CID-110346,Fall 2023,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Junior,In-State,Full-Time,TRUE,15,79,120,2.47,2.36,Good Standing,Spring 2028,0,0,2,20310
+CID-660614,Fall 2025,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Sophomore,Out-of-State,Full-Time,FALSE,10,31,120,3.13,3.00,Good Standing,Spring 2030,0,0,1,18510
+CID-597536,Fall 2025,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,FALSE,13,29,120,2.31,2.50,Good Standing,Spring 2030,0,0,4,23080
+CID-240918,Fall 2022,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,10,113,120,2.71,2.72,Good Standing,Spring 2027,3,0,4,41930
+CID-362250,Fall 2026,First-Time Freshman,Computer Science,Data Science,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,FALSE,7,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,1,3,0
+CID-767728,Fall 2023,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,10,75,120,2.39,2.06,Good Standing,Spring 2028,0,0,2,23270
+CID-983189,Fall 2026,First-Time Freshman,Information Systems,Cybersecurity Management,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,FALSE,6,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,3,0
+CID-584508,Fall 2026,Transfer,Computer Science,General,Mathematics,Psychology,Junior,In-State,Full-Time,FALSE,3,64,120,Not Applicable,Not Applicable,Good Standing,Fall 2028,0,1,1,0
+CID-166141,Fall 2023,First-Time Freshman,Computer Science,Data Science,Not Applicable,Not Applicable,Junior,Out-of-State,Full-Time,TRUE,21,85,120,2.52,2.61,Good Standing,Spring 2028,0,0,4,58760
+CID-152778,Fall 2026,First-Time Freshman,Computer Science,General,Information Systems,Economics,Freshman,In-State,Full-Time,FALSE,16,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,0,0
+CID-251935,Fall 2026,Transfer,Computer Science,Artificial Intelligence,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,1,65,120,Not Applicable,Not Applicable,Good Standing,Fall 2028,0,0,4,0
+CID-874505,Fall 2026,Transfer,Computer Science,Artificial Intelligence,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,FALSE,5,48,120,Not Applicable,Not Applicable,Good Standing,Fall 2029,0,0,1,0
+CID-831246,Fall 2024,Transfer,Computer Science,General,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,2,114,120,3.25,3.09,Good Standing,Spring 2027,1,1,2,11330
+CID-918469,Fall 2025,First-Time Freshman,Computer Science,Artificial Intelligence,Not Applicable,Not Applicable,Sophomore,Out-of-State,Full-Time,FALSE,13,33,120,2.58,2.50,Good Standing,Spring 2030,0,0,6,29780
+CID-657501,Fall 2025,First-Time Freshman,Information Systems,Health Information Technology,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,TRUE,8,28,120,3.79,4.00,Good Standing,Spring 2030,1,2,7,12780
+CID-193667,Fall 2025,First-Time Freshman,Information Systems,General,Computer Science,Not Applicable,Sophomore,Out-of-State,Full-Time,FALSE,11,31,120,3.68,4.00,Good Standing,Spring 2030,1,0,5,21380
+CID-834508,Fall 2026,Transfer,Computer Science,Software Engineering,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,FALSE,0,46,120,Not Applicable,Not Applicable,Good Standing,Fall 2029,0,0,2,0
+CID-284088,Fall 2024,First-Time Freshman,Computer Science,Data Science,Not Applicable,Not Applicable,Freshman,Out-of-State,Part-Time,FALSE,16,25,120,2.40,3.00,Good Standing,Spring 2034,0,0,1,25990
+CID-842919,Fall 2026,First-Time Freshman,Computer Science,Cybersecurity,Information Systems,Not Applicable,Freshman,In-State,Full-Time,FALSE,10,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,3,0
+CID-230845,Fall 2024,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,TRUE,14,56,120,2.55,2.40,Good Standing,Spring 2029,1,3,2,21680
+CID-366178,Fall 2026,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,FALSE,19,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,2,0
+CID-510157,Fall 2025,First-Time Freshman,Computer Science,General,Not Applicable,Cybersecurity,Sophomore,In-State,Full-Time,FALSE,12,32,120,2.81,3.00,Good Standing,Spring 2030,1,1,0,12160
+CID-328950,Fall 2026,First-Time Freshman,Information Systems,Cybersecurity Management,Not Applicable,Data Science,Freshman,Out-of-State,Full-Time,FALSE,18,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,2,0
+CID-240826,Fall 2025,Transfer,Computer Science,Data Science,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,13,93,120,2.72,2.64,Good Standing,Fall 2027,1,0,5,7580
+CID-819844,Fall 2024,First-Time Freshman,Computer Science,Data Science,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,12,61,120,3.16,3.29,Good Standing,Spring 2029,1,0,0,31000
+CID-555089,Fall 2023,Transfer,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Junior,In-State,Part-Time,FALSE,8,74,120,2.42,2.33,Good Standing,Spring 2030,2,0,0,14190
+CID-237784,Fall 2023,Transfer,Information Systems,Software Development,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,7,121,120,3.24,3.17,Good Standing,Spring 2027,2,0,4,17130
+CID-138418,Fall 2024,Transfer,Information Systems,Business Analytics,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,9,105,120,2.95,2.85,Good Standing,Spring 2027,1,0,1,13210
+CID-367720,Fall 2024,Transfer,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Senior,In-State,Full-Time,TRUE,6,92,120,3.48,3.74,Good Standing,Fall 2027,0,2,1,11370
+CID-292443,Fall 2026,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,FALSE,15,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,0,0
+CID-716413,Fall 2023,First-Time Freshman,Information Systems,General,Not Applicable,Statistics,Senior,Out-of-State,Full-Time,FALSE,8,91,120,3.42,3.36,Good Standing,Fall 2027,1,0,2,69060
+CID-689069,Fall 2024,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Mathematics,Sophomore,In-State,Part-Time,FALSE,16,40,120,3.08,3.20,Good Standing,Fall 2032,1,0,4,20380
+CID-240487,Fall 2025,Transfer,Information Systems,Health Information Technology,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,1,62,120,3.34,3.67,Good Standing,Fall 2028,1,1,3,7770
+CID-841428,Fall 2023,Transfer,Computer Science,Software Engineering,Not Applicable,Not Applicable,Junior,In-State,Part-Time,FALSE,26,85,120,3.23,3.74,Good Standing,Spring 2029,1,0,3,9570
+CID-531099,Fall 2026,Transfer,Information Systems,Business Analytics,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,FALSE,1,52,120,Not Applicable,Not Applicable,Good Standing,Spring 2029,0,1,5,0
+CID-784839,Fall 2022,First-Time Freshman,Computer Science,Artificial Intelligence,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,10,111,120,3.19,3.22,Good Standing,Spring 2027,0,0,1,43130
+CID-196087,Fall 2025,Transfer,Computer Science,Software Engineering,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,6,65,120,3.00,3.00,Good Standing,Fall 2028,0,0,1,5770
+CID-292414,Fall 2023,First-Time Freshman,Information Systems,Health Information Technology,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,0,91,120,2.86,3.00,Good Standing,Fall 2027,0,3,3,39970
+CID-490939,Fall 2024,Transfer,Computer Science,Software Engineering,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,20,99,120,3.66,3.33,Good Standing,Fall 2027,1,0,1,9330
+CID-446909,Fall 2025,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,FALSE,11,29,120,3.62,3.50,Good Standing,Spring 2030,1,0,4,23430
+CID-484888,Fall 2026,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,TRUE,3,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,1,0
+CID-749430,Fall 2023,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,8,82,120,2.84,2.86,Good Standing,Spring 2028,1,0,3,38880
+CID-560112,Fall 2025,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,FALSE,12,35,120,3.49,3.64,Good Standing,Spring 2030,1,2,3,15780
+CID-333528,Fall 2026,First-Time Freshman,Information Systems,Cybersecurity Management,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,2,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,4,0
+CID-710644,Fall 2024,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Sophomore,Out-of-State,Full-Time,FALSE,5,56,120,2.86,2.83,Good Standing,Spring 2029,1,2,0,51380
+CID-599690,Fall 2026,Transfer,Computer Science,General,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,1,24,120,Not Applicable,Not Applicable,Good Standing,Spring 2030,0,0,0,0
+CID-742987,Fall 2023,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Sophomore,In-State,Part-Time,FALSE,14,55,120,3.67,3.83,Good Standing,Fall 2031,1,0,2,21970
+CID-209781,Fall 2022,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Junior,In-State,Part-Time,FALSE,14,77,120,3.27,3.45,Good Standing,Spring 2030,3,2,2,27660
+CID-821692,Fall 2025,Transfer,Computer Science,Software Engineering,Not Applicable,Economics,Junior,In-State,Part-Time,FALSE,8,60,120,3.53,3.57,Good Standing,Spring 2031,0,0,1,2910
+CID-944042,Fall 2023,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,5,107,120,3.29,3.29,Good Standing,Spring 2027,2,1,3,33190
+CID-137373,Fall 2025,Transfer,Information Systems,Business Analytics,Not Applicable,Psychology,Sophomore,In-State,Part-Time,TRUE,22,57,120,2.50,3.00,Good Standing,Fall 2031,0,2,6,2470
+CID-674050,Fall 2026,Transfer,Information Systems,Business Analytics,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,TRUE,18,30,120,Not Applicable,Not Applicable,Good Standing,Spring 2030,0,1,2,0
+CID-855904,Fall 2026,First-Time Freshman,Computer Science,Data Science,Mathematics,Political Science,Freshman,In-State,Full-Time,FALSE,2,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,6,0
+CID-850889,Fall 2025,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,14,26,120,2.69,2.50,Good Standing,Spring 2030,0,1,4,10190
+CID-755316,Fall 2025,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,FALSE,10,29,120,3.48,4.00,Good Standing,Spring 2030,1,0,2,27150
+CID-635009,Fall 2025,Transfer,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Junior,In-State,Full-Time,TRUE,13,86,120,2.93,2.62,Good Standing,Spring 2028,1,0,0,5670
+CID-811177,Fall 2023,First-Time Freshman,Information Systems,Software Development,Computer Science,Not Applicable,Junior,In-State,Full-Time,TRUE,24,76,120,2.64,3.00,Good Standing,Spring 2028,2,2,4,22430
+CID-633977,Fall 2023,First-Time Freshman,Computer Science,Data Science,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,16,75,120,2.57,2.41,Good Standing,Spring 2028,0,0,3,38140
+CID-339071,Fall 2023,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Psychology,Senior,In-State,Full-Time,FALSE,4,105,120,3.13,3.38,Good Standing,Spring 2027,1,0,3,45620
+CID-204837,Fall 2024,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,6,60,120,2.38,2.46,Good Standing,Spring 2029,1,0,5,25490
+CID-737543,Fall 2025,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Freshman,In-State,Part-Time,FALSE,21,19,120,3.05,3.00,Good Standing,Fall 2034,0,2,1,7090
+CID-936850,Fall 2025,First-Time Freshman,Computer Science,General,Not Applicable,Philosophy,Freshman,In-State,Full-Time,TRUE,20,19,120,1.58,2.00,Academic Probation,Fall 2030,0,0,1,8890
+CID-967906,Fall 2023,First-Time Freshman,Computer Science,General,Not Applicable,Economics,Junior,In-State,Full-Time,FALSE,6,79,120,2.99,2.64,Good Standing,Spring 2028,1,2,2,38190
+CID-257791,Fall 2025,First-Time Freshman,Computer Science,Data Science,Not Applicable,Not Applicable,Sophomore,Out-of-State,Full-Time,FALSE,4,36,120,3.11,3.09,Good Standing,Fall 2029,1,0,5,27990
+CID-725540,Fall 2023,Transfer,Computer Science,Data Science,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,0,115,120,3.12,3.23,Good Standing,Spring 2027,1,0,1,17070
+CID-404966,Fall 2024,Transfer,Information Systems,Business Analytics,Not Applicable,Not Applicable,Junior,Out-of-State,Full-Time,FALSE,2,86,120,3.21,3.14,Good Standing,Spring 2028,1,0,3,21440
+CID-482222,Fall 2025,Transfer,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Junior,Out-of-State,Full-Time,FALSE,4,76,120,3.10,3.21,Good Standing,Spring 2028,1,0,3,13030
+CID-928798,Fall 2023,First-Time Freshman,Computer Science,General,Not Applicable,Cybersecurity,Sophomore,In-State,Part-Time,FALSE,16,51,120,3.00,3.04,Good Standing,Spring 2032,2,0,3,28250
+CID-102362,Fall 2025,Transfer,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Senior,In-State,Full-Time,TRUE,20,100,120,3.12,3.25,Good Standing,Fall 2027,1,1,5,5920
+CID-463895,Fall 2025,First-Time Freshman,Computer Science,Artificial Intelligence,Not Applicable,Statistics,Sophomore,In-State,Full-Time,TRUE,9,35,120,3.11,3.64,Good Standing,Spring 2030,1,2,1,10800
+CID-136508,Fall 2023,First-Time Freshman,Information Systems,Health Information Technology,Not Applicable,Not Applicable,Junior,Out-of-State,Full-Time,TRUE,18,89,120,2.96,3.08,Good Standing,Fall 2027,1,0,2,54270
+CID-357135,Fall 2026,First-Time Freshman,Computer Science,Data Science,Not Applicable,Data Science,Freshman,In-State,Full-Time,FALSE,14,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,4,0
+CID-400894,Fall 2024,Transfer,Computer Science,Software Engineering,Not Applicable,Data Science,Senior,In-State,Full-Time,FALSE,3,99,120,2.83,2.88,Good Standing,Fall 2027,1,2,3,11020
+CID-756714,Fall 2024,Transfer,Computer Science,General,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,17,107,120,3.33,3.31,Good Standing,Spring 2027,1,0,2,12490
+CID-231281,Fall 2025,First-Time Freshman,Information Systems,Health Information Technology,Not Applicable,Health Administration,Freshman,In-State,Full-Time,FALSE,0,28,120,3.32,4.00,Good Standing,Spring 2030,0,0,1,8310
+CID-101353,Fall 2026,Transfer,Computer Science,General,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,FALSE,9,38,120,Not Applicable,Not Applicable,Good Standing,Fall 2029,0,0,4,0
+CID-703621,Fall 2023,First-Time Freshman,Computer Science,Data Science,Not Applicable,Not Applicable,Senior,Out-of-State,Full-Time,FALSE,0,99,120,3.46,3.36,Good Standing,Fall 2027,2,2,5,72050
+CID-414905,Fall 2026,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,10,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,3,0
+CID-175091,Fall 2025,First-Time Freshman,Computer Science,Artificial Intelligence,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,2,28,120,2.54,2.00,Good Standing,Spring 2030,0,0,4,11880
+CID-771702,Fall 2023,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Junior,In-State,Full-Time,TRUE,15,88,120,2.85,2.90,Good Standing,Fall 2027,0,1,1,33400
+CID-980470,Fall 2024,Transfer,Computer Science,Artificial Intelligence,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,10,119,120,3.19,3.24,Good Standing,Spring 2027,0,0,1,15190
+CID-322597,Fall 2025,First-Time Freshman,Information Systems,Cybersecurity Management,Not Applicable,Not Applicable,Sophomore,Out-of-State,Full-Time,TRUE,11,37,120,3.65,3.50,Good Standing,Fall 2029,1,0,5,16040
+CID-972026,Fall 2025,First-Time Freshman,Computer Science,General,Not Applicable,Statistics,Sophomore,In-State,Full-Time,FALSE,12,39,120,3.82,4.00,Good Standing,Fall 2029,0,2,1,9400
+CID-163450,Fall 2024,First-Time Freshman,Computer Science,Data Science,Not Applicable,Not Applicable,Junior,Out-of-State,Full-Time,FALSE,8,68,120,3.07,2.88,Good Standing,Fall 2028,0,1,2,42520
+CID-732006,Fall 2025,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Freshman,Out-of-State,Part-Time,FALSE,27,15,120,2.67,2.00,Good Standing,Fall 2034,1,0,1,13300
+CID-171368,Fall 2026,Transfer,Computer Science,Software Engineering,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,TRUE,0,45,120,Not Applicable,Not Applicable,Good Standing,Fall 2029,0,0,5,0
+CID-606112,Fall 2023,Transfer,Computer Science,General,Not Applicable,Not Applicable,Senior,In-State,Full-Time,TRUE,13,103,120,2.13,2.06,Good Standing,Spring 2027,0,2,1,11400
+CID-469514,Fall 2026,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,FALSE,4,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,0,0
+CID-928970,Fall 2022,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Not Applicable,Senior,In-State,Full-Time,TRUE,13,124,120,3.32,3.36,Good Standing,Spring 2027,2,3,2,38830
+CID-973764,Fall 2023,First-Time Freshman,Information Systems,Health Information Technology,Not Applicable,Not Applicable,Sophomore,In-State,Part-Time,FALSE,32,40,120,1.98,2.40,Academic Warning,Fall 2032,1,0,1,22510
+CID-599722,Fall 2025,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Not Applicable,Sophomore,Out-of-State,Full-Time,FALSE,3,33,120,3.88,4.00,Good Standing,Spring 2030,1,1,5,30550
+CID-279858,Fall 2023,First-Time Freshman,Information Systems,Health Information Technology,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,8,77,120,2.48,2.56,Good Standing,Spring 2028,1,0,2,23260
+CID-458445,Fall 2023,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Junior,Out-of-State,Full-Time,FALSE,18,88,120,2.94,3.00,Good Standing,Fall 2027,0,0,2,80890
+CID-728670,Fall 2024,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,4,71,120,3.48,3.75,Good Standing,Fall 2028,1,0,2,33590
+CID-394172,Fall 2023,First-Time Freshman,Computer Science,Data Science,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,6,89,120,3.48,3.33,Good Standing,Fall 2027,1,1,2,25090
+CID-598376,Fall 2026,Transfer,Information Systems,Software Development,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,FALSE,13,35,120,Not Applicable,Not Applicable,Good Standing,Spring 2030,0,0,1,0
+CID-604271,Fall 2026,First-Time Freshman,Computer Science,Cybersecurity,Statistics,Health Administration,Freshman,Out-of-State,Full-Time,FALSE,13,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,2,2,0
+CID-584463,Fall 2025,Transfer,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,5,77,120,2.91,2.77,Good Standing,Spring 2028,0,0,1,6070
+CID-779094,Fall 2022,First-Time Freshman,Information Systems,Cybersecurity Management,Not Applicable,Not Applicable,Junior,In-State,Part-Time,FALSE,23,64,120,2.86,2.75,Good Standing,Spring 2031,1,0,2,26120
+CID-871874,Fall 2026,First-Time Freshman,Information Systems,Business Analytics,Mathematics,Not Applicable,Freshman,Out-of-State,Full-Time,FALSE,5,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,5,0
+CID-639795,Fall 2026,First-Time Freshman,Computer Science,Cybersecurity,Statistics,Mathematics,Freshman,In-State,Full-Time,FALSE,21,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,2,0
+CID-935808,Fall 2025,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,0,29,120,3.07,3.00,Good Standing,Spring 2030,1,0,5,12630
+CID-341543,Fall 2024,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Junior,Out-of-State,Full-Time,FALSE,8,61,120,3.05,2.56,Good Standing,Spring 2029,1,0,2,46560
+CID-396276,Fall 2023,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,1,90,120,3.26,2.93,Good Standing,Fall 2027,0,0,1,32070
+CID-441239,Fall 2025,Transfer,Computer Science,General,Not Applicable,Not Applicable,Junior,In-State,Full-Time,TRUE,2,82,120,2.10,2.18,Good Standing,Spring 2028,0,0,5,8350
+CID-420026,Fall 2023,Transfer,Information Systems,Cybersecurity Management,Not Applicable,Not Applicable,Senior,In-State,Full-Time,TRUE,8,112,120,3.49,3.18,Good Standing,Spring 2027,2,2,3,17460
+CID-951160,Fall 2024,Transfer,Computer Science,General,Statistics,Not Applicable,Senior,In-State,Full-Time,FALSE,0,125,120,3.27,3.07,Good Standing,Spring 2027,1,1,1,10390
+CID-458639,Fall 2023,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,12,86,120,2.90,2.67,Good Standing,Spring 2028,1,1,3,31600
+CID-331359,Fall 2025,Transfer,Information Systems,General,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,7,91,120,2.80,3.00,Good Standing,Fall 2027,1,0,2,9030
+CID-304273,Fall 2025,Transfer,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,6,62,120,3.13,3.50,Good Standing,Fall 2028,1,0,4,6420
+CID-745851,Fall 2025,Transfer,Computer Science,Software Engineering,Not Applicable,Health Administration,Junior,In-State,Full-Time,TRUE,8,61,120,2.54,2.91,Good Standing,Spring 2029,0,0,0,3310
+CID-333953,Fall 2024,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Sophomore,Out-of-State,Full-Time,FALSE,0,52,120,2.54,2.80,Good Standing,Spring 2029,0,0,1,45220
+CID-584626,Fall 2026,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Freshman,Out-of-State,Part-Time,FALSE,21,0,120,Not Applicable,Not Applicable,Good Standing,Fall 2035,0,0,0,0
+CID-104853,Fall 2025,Transfer,Information Systems,General,Not Applicable,Not Applicable,Junior,In-State,Full-Time,TRUE,7,60,120,2.67,2.50,Good Standing,Spring 2029,1,0,0,7190
+CID-404224,Fall 2022,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,11,116,120,2.57,2.39,Good Standing,Spring 2027,1,0,0,47710
+CID-393201,Fall 2025,Transfer,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Junior,In-State,Part-Time,FALSE,14,63,120,2.50,2.00,Good Standing,Spring 2031,0,0,4,3370
+CID-550462,Fall 2023,First-Time Freshman,Computer Science,Software Engineering,Information Systems,Data Science,Sophomore,In-State,Part-Time,FALSE,21,45,120,3.04,2.92,Good Standing,Fall 2032,2,1,4,19560
+CID-730888,Fall 2024,Transfer,Information Systems,Software Development,Not Applicable,Not Applicable,Junior,In-State,Part-Time,FALSE,12,66,120,2.70,2.60,Good Standing,Fall 2030,1,1,2,8780
+CID-514470,Fall 2025,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,TRUE,16,32,120,3.25,3.50,Good Standing,Spring 2030,0,0,2,10390
+CID-365852,Fall 2026,First-Time Freshman,Information Systems,Software Development,Not Applicable,Cybersecurity,Freshman,In-State,Full-Time,TRUE,10,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,1,0
+CID-963607,Fall 2023,First-Time Freshman,Information Systems,Cybersecurity Management,Not Applicable,Not Applicable,Sophomore,In-State,Part-Time,TRUE,21,46,120,3.20,3.00,Good Standing,Spring 2032,0,0,4,16230
+CID-243671,Fall 2026,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,TRUE,19,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,2,4,0
+CID-248108,Fall 2023,First-Time Freshman,Computer Science,General,Not Applicable,Statistics,Senior,Out-of-State,Full-Time,TRUE,17,94,120,3.46,3.17,Good Standing,Fall 2027,1,0,3,46650
+CID-934862,Fall 2023,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,8,95,120,3.17,3.27,Good Standing,Fall 2027,2,0,3,40540
+CID-481006,Fall 2023,First-Time Freshman,Information Systems,General,Not Applicable,Not Applicable,Senior,Out-of-State,Full-Time,FALSE,13,93,120,2.73,2.69,Good Standing,Fall 2027,2,0,0,80180
+CID-891438,Fall 2025,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,FALSE,18,35,120,3.11,3.00,Good Standing,Spring 2030,0,1,4,12640
+CID-282263,Fall 2026,Transfer,Computer Science,Software Engineering,Not Applicable,Not Applicable,Junior,Out-of-State,Full-Time,FALSE,10,60,120,Not Applicable,Not Applicable,Good Standing,Spring 2029,0,0,0,0
+CID-729703,Fall 2026,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,18,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,2,0
+CID-462742,Fall 2024,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,7,67,120,3.31,3.46,Good Standing,Fall 2028,0,1,1,27720
+CID-937220,Fall 2023,First-Time Freshman,Information Systems,Health Information Technology,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,11,81,120,3.07,3.00,Good Standing,Spring 2028,1,0,2,33460
+CID-493807,Fall 2026,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,FALSE,6,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,1,3,0
+CID-169606,Fall 2025,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,2,28,120,2.82,2.00,Good Standing,Spring 2030,0,0,1,11720
+CID-215625,Fall 2026,Transfer,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,FALSE,6,55,120,Not Applicable,Not Applicable,Good Standing,Spring 2029,0,2,4,0
+CID-957494,Fall 2025,First-Time Freshman,Information Systems,Software Development,Not Applicable,Not Applicable,Freshman,In-State,Part-Time,TRUE,11,22,120,4.00,4.00,Good Standing,Spring 2034,1,0,2,5850
+CID-415560,Fall 2025,Transfer,Information Systems,Business Analytics,Computer Science,Not Applicable,Sophomore,In-State,Full-Time,FALSE,5,54,120,2.43,2.43,Good Standing,Spring 2029,1,0,4,5470
+CID-453570,Fall 2022,First-Time Freshman,Computer Science,Data Science,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,17,114,120,2.67,2.43,Good Standing,Spring 2027,0,1,3,40530
+CID-802319,Fall 2022,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Not Applicable,Senior,In-State,Full-Time,FALSE,7,122,120,3.49,3.57,Good Standing,Spring 2027,2,0,2,36320
+CID-233102,Fall 2023,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Junior,Out-of-State,Full-Time,TRUE,20,84,120,2.75,2.69,Good Standing,Spring 2028,1,0,2,56470
+CID-229343,Fall 2025,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Sophomore,In-State,Full-Time,TRUE,17,30,120,2.60,2.50,Good Standing,Spring 2030,1,0,2,14840
+CID-611191,Fall 2023,First-Time Freshman,Information Systems,Software Development,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,9,81,120,2.56,2.44,Good Standing,Spring 2028,0,0,3,36180
+CID-502166,Fall 2026,First-Time Freshman,Information Systems,General,Not Applicable,Not Applicable,Freshman,Out-of-State,Full-Time,TRUE,15,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,4,0
+CID-450650,Fall 2023,First-Time Freshman,Information Systems,Health Information Technology,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,21,77,120,2.75,2.89,Good Standing,Spring 2028,1,0,2,31970
+CID-994433,Fall 2022,First-Time Freshman,Information Systems,Cybersecurity Management,Not Applicable,Not Applicable,Senior,In-State,Full-Time,TRUE,19,106,120,2.98,3.00,Good Standing,Spring 2027,2,0,0,30050
+CID-119980,Fall 2026,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,TRUE,20,0,120,Not Applicable,Not Applicable,Good Standing,Spring 2031,0,0,1,0
+CID-940621,Fall 2025,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,9,29,120,3.14,3.50,Good Standing,Spring 2030,1,0,3,11790
+CID-212574,Fall 2025,First-Time Freshman,Computer Science,General,Not Applicable,Not Applicable,Freshman,In-State,Full-Time,FALSE,8,29,120,2.79,3.00,Good Standing,Spring 2030,1,0,1,13440
+CID-495743,Fall 2025,Transfer,Computer Science,General,Not Applicable,Not Applicable,Junior,In-State,Full-Time,TRUE,15,69,120,3.24,3.00,Good Standing,Fall 2028,1,1,2,4470
+CID-246484,Fall 2022,First-Time Freshman,Information Systems,Cybersecurity Management,Mathematics,Not Applicable,Senior,Out-of-State,Full-Time,FALSE,13,109,120,2.80,2.75,Good Standing,Spring 2027,1,2,5,54260
+CID-887807,Fall 2023,First-Time Freshman,Computer Science,General,Information Systems,Philosophy,Junior,In-State,Full-Time,TRUE,10,86,120,3.52,3.31,Good Standing,Spring 2028,1,0,3,21120
+CID-542401,Fall 2025,Transfer,Computer Science,General,Not Applicable,Not Applicable,Junior,In-State,Full-Time,TRUE,23,74,120,3.21,3.23,Good Standing,Fall 2028,1,2,3,5480
+CID-742542,Fall 2023,First-Time Freshman,Information Systems,Software Development,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,10,88,120,3.19,2.91,Good Standing,Fall 2027,0,0,2,23420
+CID-609439,Fall 2024,Transfer,Computer Science,Software Engineering,Not Applicable,Not Applicable,Senior,In-State,Full-Time,TRUE,8,110,120,3.17,2.89,Good Standing,Spring 2027,1,0,2,14080
+CID-270777,Fall 2023,First-Time Freshman,Information Systems,Software Development,Not Applicable,Not Applicable,Junior,Out-of-State,Full-Time,FALSE,11,88,120,2.60,2.80,Good Standing,Fall 2027,1,0,1,59940
+CID-763328,Fall 2023,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,12,84,120,3.51,3.70,Good Standing,Spring 2028,2,0,6,28540
+CID-944424,Fall 2025,Transfer,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,17,83,120,2.90,2.77,Good Standing,Spring 2028,0,1,2,6410
+CID-527474,Fall 2024,First-Time Freshman,Information Systems,General,Not Applicable,Not Applicable,Freshman,Out-of-State,Part-Time,FALSE,16,28,120,2.43,3.00,Good Standing,Fall 2033,1,0,3,25330
+CID-220482,Fall 2024,First-Time Freshman,Information Systems,Business Analytics,Not Applicable,Political Science,Sophomore,Out-of-State,Full-Time,FALSE,14,56,120,3.32,3.40,Good Standing,Spring 2029,0,0,3,47740
+CID-533065,Fall 2025,First-Time Freshman,Computer Science,Data Science,Not Applicable,Not Applicable,Sophomore,Out-of-State,Full-Time,FALSE,5,33,120,3.45,3.50,Good Standing,Spring 2030,1,2,7,20760
+CID-712054,Fall 2024,First-Time Freshman,Computer Science,Cybersecurity,Not Applicable,Not Applicable,Junior,In-State,Full-Time,FALSE,1,77,120,2.68,2.71,Good Standing,Spring 2028,0,0,1,33720
+CID-477965,Fall 2024,First-Time Freshman,Computer Science,Software Engineering,Not Applicable,Not Applicable,Junior,In-State,Full-Time,TRUE,15,60,120,2.58,2.71,Good Standing,Spring 2029,1,2,5,23210
+CID-886080,Fall 2024,First-Time Freshman,Information Systems,General,Not Applicable,Not Applicable,Freshman,Out-of-State,Part-Time,TRUE,24,28,120,3.07,4.00,Good Standing,Fall 2033,0,0,1,14390
+CID-419145,Fall 2022,First-Time Freshman,Computer Science,Cybersecurity,Statistics,Not Applicable,Senior,In-State,Full-Time,FALSE,13,115,120,2.80,2.83,Good Standing,Spring 2027,2,0,4,52350

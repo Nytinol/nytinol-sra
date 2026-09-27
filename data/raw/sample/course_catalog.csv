@@ -1,0 +1,73 @@
+course_id,subject,catalog_number,course_title,credits,course_level,course_type,required_for_majors,prerequisite_ids,skill_tags,difficulty_index,typical_terms_offered
+CMSC201,CMSC,201,Foundations of Computer Science I,4,Lower,Core,Computer Science|Information Systems,Not Applicable,Python|Problem Solving,2.6,Fall|Spring|Summer
+CMSC202,CMSC,202,Foundations of Computer Science II,4,Lower,Core,Computer Science,CMSC201,C++|Object-Oriented Design,3.4,Fall|Spring|Summer
+CMSC203,CMSC,203,Discrete Structures,3,Lower,Core,Computer Science,CMSC201,Discrete Math|Proof Technique,3.3,Fall|Spring
+CMSC304,CMSC,304,Social and Ethical Issues in Computing,3,Upper,Core,Computer Science,CMSC201,Technical Writing|Ethics,1.6,Fall|Spring|Summer
+CMSC313,CMSC,313,Computer Organization and Assembly,3,Upper,Core,Computer Science,CMSC202|CMSC203,Assembly|Computer Architecture,3.7,Fall|Spring
+CMSC331,CMSC,331,Principles of Programming Languages,3,Upper,Core,Computer Science,CMSC202|CMSC203,Language Design|Functional Programming,3.5,Fall|Spring
+CMSC341,CMSC,341,Data Structures,4,Upper,Core,Computer Science,CMSC202|CMSC203,Algorithms|Data Structures|C++,4.1,Fall|Spring|Summer
+CMSC411,CMSC,411,Computer Architecture,3,Upper,Core,Computer Science,CMSC313,Computer Architecture|Performance Analysis,3.8,Fall|Spring
+CMSC421,CMSC,421,Principles of Operating Systems,3,Upper,Core,Computer Science,CMSC341|CMSC313,Operating Systems|Concurrency|C,4.3,Fall|Spring
+CMSC441,CMSC,441,Design and Analysis of Algorithms,3,Upper,Core,Computer Science,CMSC341|MATH301,Algorithms|Complexity Analysis,4.4,Fall|Spring
+CMSC447,CMSC,447,Software Engineering Capstone,3,Upper,Capstone,Computer Science,CMSC341,Team Software|Agile|Version Control,2.4,Fall|Spring
+CMSC345,CMSC,345,Software Design and Development,3,Upper,Elective,Not Applicable,CMSC341,Software Design|Testing|Git,3.0,Fall|Spring
+CMSC426,CMSC,426,Web Application Architecture,3,Upper,Elective,Not Applicable,CMSC341,JavaScript|REST APIs|Web Frameworks,2.9,Fall|Spring
+CMSC432,CMSC,432,Mobile Application Development,3,Upper,Elective,Not Applicable,CMSC341,Mobile Development|UI Engineering|Swift,3.0,Spring
+CMSC448,CMSC,448,Software Testing and Quality Assurance,3,Upper,Elective,Not Applicable,CMSC345,Testing|CI/CD|Quality Assurance,2.8,Fall
+CMSC461,CMSC,461,Database Management Systems,3,Upper,Elective,Not Applicable,CMSC341,SQL|Data Modeling|Query Optimization,3.2,Fall|Spring
+CMSC462,CMSC,462,Data Warehousing and Pipelines,3,Upper,Elective,Not Applicable,CMSC461,ETL|Data Engineering|SQL,3.3,Spring
+CMSC471,CMSC,471,Introduction to Data Mining,3,Upper,Elective,Not Applicable,CMSC341|STAT355,Data Mining|Python|Statistics,3.6,Fall
+CMSC475,CMSC,475,Data Visualization,3,Upper,Elective,Not Applicable,CMSC201|STAT355,Visualization|D3|Python,2.7,Spring
+CMSC471A,CMSC,478,Introduction to Artificial Intelligence,3,Upper,Elective,Not Applicable,CMSC341|MATH301,AI|Search Algorithms|Python,3.8,Fall
+CMSC478,CMSC,479,Introduction to Machine Learning,3,Upper,Elective,Not Applicable,CMSC341|STAT355|MATH301,Machine Learning|Python|Linear Algebra,4.0,Spring
+CMSC479,CMSC,481,Neural Networks and Deep Learning,3,Upper,Elective,Not Applicable,CMSC478,Deep Learning|PyTorch|GPU Computing,4.2,Fall
+CMSC481,CMSC,483,Natural Language Processing,3,Upper,Elective,Not Applicable,CMSC478,NLP|Machine Learning|Python,4.0,Spring
+CMSC487,CMSC,487,Introduction to Network Security,3,Upper,Elective,Not Applicable,CMSC341,Network Security|Cryptography|Linux,3.7,Fall|Spring
+CMSC488,CMSC,488,Applied Cryptography,3,Upper,Elective,Not Applicable,CMSC487|MATH301,Cryptography|Security Protocols,4.1,Spring
+CMSC491,CMSC,491,Offensive Security and Penetration Testing,3,Upper,Elective,Not Applicable,CMSC487,Penetration Testing|Linux|Exploit Development,3.9,Fall
+CMSC493,CMSC,493,Digital Forensics,3,Upper,Elective,Not Applicable,CMSC487,Forensics|Incident Response|Linux,3.5,Spring
+CMSC423,CMSC,423,Computer Networks,3,Upper,Elective,Not Applicable,CMSC313,Networking|TCP/IP|Linux,3.6,Fall|Spring
+CMSC425,CMSC,425,Cloud Computing and Distributed Systems,3,Upper,Elective,Not Applicable,CMSC421,Cloud|Distributed Systems|Containers,3.8,Spring
+CMSC427,CMSC,427,Site Reliability and Systems Automation,3,Upper,Elective,Not Applicable,CMSC423,Linux|Automation|Infrastructure as Code,3.4,Fall
+IS147,IS,147,Introduction to Information Systems,3,Lower,Core,Information Systems,Not Applicable,Information Systems|Business Process,2.0,Fall|Spring|Summer
+IS247,IS,247,Introduction to Web Development,3,Lower,Core,Information Systems,IS147,HTML|CSS|JavaScript,2.4,Fall|Spring
+IS295,IS,295,Business Communications for IS,3,Lower,Core,Information Systems,IS147,Technical Writing|Presentation,1.8,Fall|Spring|Summer
+IS300,IS,300,Management Information Systems,3,Upper,Core,Information Systems,IS147,MIS|Business Process|Requirements,2.6,Fall|Spring
+IS310,IS,310,Structured Systems Analysis and Design,3,Upper,Core,Information Systems,IS300,Systems Analysis|UML|Requirements,3.0,Fall|Spring
+IS320,IS,320,Business Application Programming,3,Upper,Core,Information Systems,CMSC201|IS147,Java|Application Development,3.2,Fall|Spring
+IS410,IS,410,Database Design and Implementation,3,Upper,Core,Information Systems,IS310,SQL|Data Modeling|Database Design,3.1,Fall|Spring
+IS420,IS,420,Enterprise Systems Integration,3,Upper,Core,Information Systems,IS410,ERP|Integration|Middleware,3.0,Fall|Spring
+IS448,IS,448,Advanced Web Development,3,Upper,Elective,Not Applicable,IS247|IS320,JavaScript|Web Frameworks|REST APIs,3.0,Spring
+IS450,IS,450,Information Systems Capstone,3,Upper,Capstone,Information Systems,IS410|IS310,Project Management|Team Software,2.3,Fall|Spring
+IS425,IS,425,Business Intelligence and Reporting,3,Upper,Elective,Not Applicable,IS410,Business Intelligence|Tableau|SQL,2.8,Fall|Spring
+IS427,IS,427,Predictive Analytics for Business,3,Upper,Elective,Not Applicable,IS425|STAT355,Predictive Modeling|Statistics|R,3.4,Spring
+IS430,IS,430,Project Management for IT,3,Upper,Elective,Not Applicable,IS300,Project Management|Agile|Risk Management,2.5,Fall|Spring
+IS432,IS,432,IT Governance and Strategy,3,Upper,Elective,Not Applicable,IS300,IT Governance|Strategy|Compliance,2.7,Fall
+IS435,IS,435,Product Management for Technology,3,Upper,Elective,Not Applicable,IS310,Product Management|Roadmapping|User Research,2.6,Spring
+IS451,IS,451,Information Security Management,3,Upper,Elective,Not Applicable,IS300,Security Management|Risk Assessment|Compliance,3.0,Fall|Spring
+IS455,IS,455,IT Audit and Compliance,3,Upper,Elective,Not Applicable,IS451,Audit|Compliance|Governance,3.1,Spring
+IS457,IS,457,Cyber Risk and Incident Management,3,Upper,Elective,Not Applicable,IS451,Risk Management|Incident Response|Security Operations,3.2,Fall
+IS460,IS,460,Health Information Systems,3,Upper,Elective,Not Applicable,IS300,Health IT|EHR|HIPAA,2.8,Fall
+IS462,IS,462,Clinical Data Standards and Interoperability,3,Upper,Elective,Not Applicable,IS460,HL7|FHIR|Interoperability,3.2,Spring
+IS465,IS,465,Healthcare Analytics,3,Upper,Elective,Not Applicable,IS460|IS425,Health Analytics|SQL|Population Health,3.3,Fall
+MATH151,MATH,151,Calculus and Analytic Geometry I,4,Lower,Core,Computer Science,Not Applicable,Calculus,3.6,Fall|Spring|Summer
+MATH152,MATH,152,Calculus and Analytic Geometry II,4,Lower,Core,Computer Science,MATH151,Calculus,3.9,Fall|Spring|Summer
+MATH301,MATH,301,Linear Algebra,3,Upper,Core,Computer Science,MATH152,Linear Algebra|Matrix Computation,3.5,Fall|Spring
+STAT355,STAT,355,Probability and Statistics for Computing,3,Upper,Core,Computer Science|Information Systems,MATH151 or MATH155,Statistics|Probability,3.4,Fall|Spring|Summer
+MATH155,MATH,155,Applied Calculus for Information Systems,3,Lower,Core,Information Systems,Not Applicable,Calculus|Applied Mathematics,3.1,Fall|Spring|Summer
+ENGL100,ENGL,100,Composition and Rhetoric,3,Lower,General Education,Computer Science|Information Systems,Not Applicable,Writing,2.0,Fall|Spring|Summer
+ENGL393,ENGL,393,Technical Communication,3,Upper,General Education,Computer Science|Information Systems,ENGL100,Technical Writing,2.2,Fall|Spring|Summer
+ECON101,ECON,101,Principles of Microeconomics,3,Lower,General Education,Information Systems,Not Applicable,Economics,2.6,Fall|Spring|Summer
+ECON102,ECON,102,Principles of Macroeconomics,3,Lower,General Education,Information Systems,Not Applicable,Economics,2.6,Fall|Spring|Summer
+MGMT210,MGMT,210,Principles of Management,3,Lower,General Education,Information Systems,Not Applicable,Management,2.2,Fall|Spring|Summer
+ACCT201,ACCT,201,Principles of Accounting I,3,Lower,General Education,Information Systems,Not Applicable,Accounting,2.9,Fall|Spring
+PSYC100,PSYC,100,Introduction to Psychology,3,Lower,General Education,Not Applicable,Not Applicable,Social Science,2.0,Fall|Spring|Summer
+SOCY101,SOCY,101,Introduction to Sociology,3,Lower,General Education,Not Applicable,Not Applicable,Social Science,1.9,Fall|Spring|Summer
+HIST103,HIST,103,United States History since 1865,3,Lower,General Education,Not Applicable,Not Applicable,Humanities,2.1,Fall|Spring|Summer
+PHIL248,PHIL,248,Ethics and Technology,3,Lower,General Education,Not Applicable,Not Applicable,Ethics|Humanities,2.2,Fall|Spring
+ARTH100,ARTH,100,Introduction to Art History,3,Lower,General Education,Not Applicable,Not Applicable,Humanities,1.8,Fall|Spring
+MUSC100,MUSC,100,Music of the World,3,Lower,General Education,Not Applicable,Not Applicable,Humanities,1.7,Fall|Spring|Summer
+SPAN101,SPAN,101,Elementary Spanish I,4,Lower,General Education,Not Applicable,Not Applicable,Language,2.4,Fall|Spring
+BIOL141,BIOL,141,Foundations of Biology,4,Lower,General Education,Not Applicable,Not Applicable,Natural Science|Lab Science,2.9,Fall|Spring
+PHYS121,PHYS,121,Introductory Physics I,4,Lower,General Education,Computer Science,MATH151,Physics|Lab Science,3.4,Fall|Spring
+CHEM101,CHEM,101,Principles of Chemistry,4,Lower,General Education,Not Applicable,Not Applicable,Natural Science|Lab Science,3.1,Fall|Spring

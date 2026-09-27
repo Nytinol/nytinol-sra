@@ -1,49 +1,51 @@
-import pandas as pd
-from pathlib import Path
+"""Analysis-ready alumni table.
 
-DATA_DIR = Path(__file__).resolve().parent.parent / "hackumbc-2026-main" / "data"
+No rows are dropped. The previous version kept only graduates with a full
+employment record, which removed 1,168 of 3,200 people -- every graduate who went
+to grad school, entered the military, was still looking, or did not respond. Those
+are the outcomes a recommender has to be able to warn about, so they stay, and the
+distinction between "we know they were not employed" and "we do not know" is kept
+rather than collapsed.
+"""
 
-alumni = pd.read_csv(DATA_DIR / "alumni.csv")
+from __future__ import annotations
 
+import paths
 
-SENTINEL_COLUMNS = [
-    "months_to_first_job",
-    "first_job_title",
-    "first_job_family",
-    "first_employer",
-    "first_employer_industry",
-    "first_job_region",
-    "first_job_annual_salary_usd",
-    "first_job_is_remote",
-    "first_job_found_via",
-]
+from model import data
 
 
-def dropNA(alumni: pd.DataFrame) -> pd.DataFrame:
-    keep = (alumni["first_destination"] != "No Response") & alumni[SENTINEL_COLUMNS].ne(
-        "Not Applicable"
-    ).all(axis=1)
-    df = alumni.loc[keep].dropna(subset=["first_destination", *SENTINEL_COLUMNS])
-
-    for column in df.columns:
-        print(f"{column} Not Applicable: {(df[column] == 'Not Applicable').sum()}")
-        print(f"{column} No Response: {(df[column] == 'No Response').sum()}")
-        print()
-
-    return df
-
-def removeMasters(alumni: pd.DataFrame):
-    keep = alumni["degree_level"].ne("Master of Science")
-    df = alumni.loc[keep]
-    print(f"{df["degree_level"]} Not Applicable: {(df["degree_level"] == 'Master of Science').sum()}")
-    print(f"{df["degree_level"]} No Response: {(df["degree_level"] == 'Bachelor of Science').sum()}")
-    print()
-
-    return df
+def add_outcome_flags(alumni):
+    """Separate a known non-employment outcome from an unknown one."""
+    frame = alumni.copy()
+    employed = frame["first_destination"].isin(
+        ["Employed Full-Time", "Employed Part-Time"]
+    )
+    frame["is_employed_outcome"] = employed
+    frame["outcome_is_known"] = frame["first_destination"] != "No Response"
+    return frame
 
 
+def add_real_salary(alumni):
+    """First-job salary in 2026 dollars, so cohorts can be compared."""
+    frame = alumni.copy()
+    salary = frame["first_job_annual_salary_usd"]
+    frame["first_job_salary_real_2026"] = [
+        None if value != value else round(data.to_real_dollars(value, int(year)))
+        for value, year in zip(salary, frame["graduation_year"])
+    ]
+    return frame
 
 
-df = dropNA(alumni)
-df = removeMasters(df)
-df.to_csv(DATA_DIR / "alumni.csv", index=False)
+def main() -> None:
+    alumni = data.load("alumni")
+    alumni = add_outcome_flags(alumni)
+    alumni = add_real_salary(alumni)
+    paths.write(alumni, "alumni_clean")
+
+    print("\nfirst_destination is kept in full:")
+    print(alumni["first_destination"].value_counts().to_string())
+
+
+if __name__ == "__main__":
+    main()
